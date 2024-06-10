@@ -5,12 +5,12 @@ import { getAuth } from "firebase/auth";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBwtqUql6IwRAGT-0mY_hyDZchznvlmhZU",
+  apiKey: APIKEY,
   authDomain: "re7alreactnative.firebaseapp.com",
   projectId: "re7alreactnative",
   storageBucket: "re7alreactnative.appspot.com",
-  messagingSenderId: "314912263277",
-  appId: "1:314912263277:web:0129576db22647b1790364"
+  messagingSenderId:SENDER ID,
+  appId: APPID
 };
 
 // Initialize Firebase
